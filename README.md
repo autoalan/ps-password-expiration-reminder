@@ -1,5 +1,5 @@
 ## PowerShell Password Expiration Reminder
-This script is written in Powershell 7.0 with the ActiveDirectory module being the only dependency outside of .NET, which is used to write information to the event log. All templates using for communicationa and logging reside in the templates directory. While it could benefit from refactoring to better address user customiation, it's solid and could be made public with minimal effort. 
+This script is written in Powershell 7.0 with the ActiveDirectory module being the only dependency outside of .NET, which is used to write information to the event log. All templates using for communicationa and logging reside in the templates directory. While it could benefit from refactoring to better address user customization, it's solid and could be made public with minimal effort. 
 
 ### include.ps1
 Update the MailServer & MailFrom variables. 
