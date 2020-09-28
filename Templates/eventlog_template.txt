@@ -1,0 +1,1 @@
+Password for {0} expires in {1} day(s). Email sent to {2}
